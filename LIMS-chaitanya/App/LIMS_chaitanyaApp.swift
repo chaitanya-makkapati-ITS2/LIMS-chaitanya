@@ -11,7 +11,7 @@ import SwiftUI
 struct LIMS_chaitanyaApp: App {
     var body: some Scene {
         WindowGroup {
-            LoginView()
+            MainScreenView()
         }
     }
 }
